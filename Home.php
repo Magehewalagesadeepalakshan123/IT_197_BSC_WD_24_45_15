@@ -28,7 +28,7 @@
      </ul>
      </header>
 
-     <h1 class="text-center ">MEDILIFE HEALTHCARE</h1>
+     <h1 class="text-center ">MEDI<span class="L">L</span>IFE HEALTHCARE</h1>
 
 <p class="text-center  ">Best Heathcare Partner</p>
 
@@ -38,9 +38,11 @@
    <div class="carousel-item active">
      <img src="../IT_197_BSC_WD_24_45_15/Images/doctor1.jpg.jpg" class="d-block w-100" alt="...">
    </div>
+   
    <div class="carousel-item">
      <img src="../IT_197_BSC_WD_24_45_15/Images/doctors.jpg.jpg" class="d-block w-100" alt="...">
-   </div>
+</div>
+   
    <div class="carousel-item">
      <img src="cIMG/SSS.jpg" class="d-block w-100" alt="...">
    </div>
@@ -61,7 +63,7 @@
 
 <div class="p-5 mb-4 bg-body-tertiary rounded-3">
  <div class="container-fluid py-5">
-   <h1 class="display-5 fw-bold">MEDILIFE HEALTHCARE</h1>
+   <h1 class="display-5 fw-bold">MEDI<span class="L">L</span>IFE HEALTHCARE</h1>
    <p class="col-md-8 ">MEDILIFE HEALTHCARE is a comprehensive healthcare provider committed to delivering top-notch medical services to patients. Equipped with state-of-the-art facilities and a highly skilled team of healthcare professionals, MEDILIFE HEALTHCARE ensures personalized, compassionate care across various specialties. Additionally, it features a cutting-edge telemedicine application, allowing patients to consult with doctors remotely, schedule appointments, and access medical records conveniently. This digital approach enhances accessibility, making healthcare more adaptable to patients' needs, especially for those in remote areas or with limited mobility, reinforcing MEDILIFE HEALTHCARE’s mission to provide accessible, high-quality healthcare. </p>
    <div class="row g-0">
                     <div class="col-lg-4 bg-white border-radius-start-10 wow fadeIn" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
@@ -105,7 +107,7 @@
 
           <h1>About us</h1>
 
-          <center><p><h3>Welcome  to incare We are Constantly Help You Feel Better</center></h3></p>
+          <center><p><h3>Welcome  to MEDILIFE HEALTHCARE We are Constantly Help You Feel Better</center></h3></p>
 
           <p class="lead"><center>The major goal of family medication is to assemble trust between the patient and the overall professional, which <br>permits accomplishing the best treatment result.</center></p>
 
